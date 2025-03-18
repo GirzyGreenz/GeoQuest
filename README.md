@@ -6,4 +6,4 @@ https://rubenvanderande.com/geoquest/
 
 (Please note: the game is not perfect and may contain bugs.)
 
-If you are wondering where projects number 4 and 5 are: they were Unreal Engine game projects. The way they were created made it impossible to put them on GitHub, so they reside on a private Perforce Helix server.
+If you're wondering where projects 4 and 5 are, they were Unreal Engine game projects. The way they were created made it impossible to host them on GitHub, so they now reside on a private Perforce Helix server.
